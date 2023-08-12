@@ -1,5 +1,6 @@
-### Hi there 👋 Iam the volley maestro THE RISHABHHH
+### Hi there 👋
 
+### i'm going to fill this up soon. i promise 🥲
 <!--
 **siliconvolley/siliconvolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
