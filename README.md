@@ -35,15 +35,6 @@
     <a href="https://gcc.gnu.org/projects/cxx-status.html" target="_blank">
         <img src="https://skillicons.dev/icons?i=cpp" />
     </a>
-    <a href="https://www.java.com/en/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" />
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" />
     </a>
@@ -55,9 +46,6 @@
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=fastapi" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=express" />
     </a>
     <a href="https://nodejs.org/en" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -89,14 +77,8 @@
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" />
     </a>
-    <a href="https://www.microsoft.com/en-in/windows" target="_blank">
-        <img src="https://skillicons.dev/icons?i=windows" />
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bash" />
     </a>
 </div>
 
