@@ -3,7 +3,7 @@
 *I love building fun and useful stuff! 🚀💡*
 
 ### 📌 **Connect With Me**
-<div>
+<div style="display: flex;">
     <a href="https://linkedin.com/in/rishabhlaxmikanth" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -25,7 +25,7 @@
 </div>
 
 ### 🛠 **Tech Stack**
-<div>
+<div style="display: flex">
     <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" />
     </a>
