@@ -1,6 +1,6 @@
 # Hi there, I'm Rishabh Laxmikanth! 👋
 
-*I love building fun and useful stuff! 🚀💡*
+### *I love building fun and useful stuff! 🚀💡*
 
 ### 📌 **Connect With Me**
 <div style="display: flex;">
