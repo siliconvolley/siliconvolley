@@ -1,3 +1,1 @@
-# Hi there👋
-
-*I love building fun and useful stuff!*
+I love building fun and useful stuff!
